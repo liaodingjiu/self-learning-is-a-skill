@@ -1,26 +1,7 @@
-<style>
-.green-border-list {
-  border-left: 4px solid #4CAF50; / 设置左边框为绿色，宽度为4px/
-  padding-left: 16px; / 左侧内边距，让文字离竖线远一点 /
-  margin-left: 0; / 移除默认的左边距 /
-  list-style-position: outside; / 确保列表项符号在边框外（如果需要显示数字)/
-}
-.green-border-list ol {
-  margin: 0; / 移除列表内部的边距和边距 /
-  padding: 0;
-  list-style-position: outside; / 列表数字放在绿色线条的左边 /
-}
-.green-border-list li {margin-bottom: 8px; / 列表项之间的间距 /
-  font-size: 16px; / 字体大小 /
-  color: #333; / 字体颜色 /
-}
-</style>
-
 # 定玖的作品集
-<div class="green-border-list">
-About Me
-Experience
-</div>
+
+# About Me
+# Experience
 
 **Hello! I'm liaodingjiu, a multidisciplinary designer based in San Francisco.** With over 8 years of experience, I thrive at the intersection of digital design, UX/UI, and brand identity. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement.
 
