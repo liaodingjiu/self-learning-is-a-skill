@@ -62,7 +62,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 
 Let's create something amazing together! Reach out to me at:
 
-- Email: 28758884[@](mailto:28758884@qq.com)qq.com
+- Email: 28758884@(mailto:28758884@qq.com)qq.com
 - Portfolio: http://www.liaodingjiu.com
 
 Thanks for stopping by my corner of the internet! 💫
