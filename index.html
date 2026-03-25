@@ -66,11 +66,11 @@
 
   <script>
     // 1. 加载你的 content.md 文件
-    fetch('index.md')
+    fetch('content.md')
       .then(res => res.text())
       .then(markdown => {
         // 2. 渲染 MD 到页面
-        document.getElementById('index').innerHTML = marked.parse(markdown);
+        document.getElementById('content').innerHTML = marked.parse(markdown);
         // 3. 自动生成左侧目录
         tocbot.init({
           tocSelector: '#toc',
