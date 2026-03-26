@@ -5,6 +5,3 @@ toc:
     h_min: 1
     h_max: 3
     
-plugins:
-    - jekyll-remote-theme
-
