@@ -55,10 +55,15 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 # Skills
 
 > User Experience (UX) Design
+> 
 > User Interface (UI) Design
+> 
 > Branding & Visual Identity
+> 
 > Adobe Creative Suite
+> 
 > Sketch & InVision
+> 
 > Prototyping & Wireframing
 
 #  Contact
