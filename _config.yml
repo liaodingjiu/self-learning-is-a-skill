@@ -3,6 +3,8 @@
 #show_downloads: false
 #theme: jekyll-theme-minimal
 remote_theme: sighingnow/jekyll-gitbook
+
+
 # Where things are
 source              : .
 destination         : ./_site
@@ -74,3 +76,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+  toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
