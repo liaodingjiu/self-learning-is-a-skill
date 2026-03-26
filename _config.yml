@@ -1,8 +1,7 @@
 title:            定玖的作品集
 longtitle:        定玖的作品集
 remote_theme:     sighingnow/jekyll-gitbook
-#source              : .
-#destination         : ./_posts
+
 toc:
     enabled: true
     h_min: 1
