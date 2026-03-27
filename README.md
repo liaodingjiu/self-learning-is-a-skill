@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 从通话时长（s）到流量大小（Byte),再到词元（Token），正在经历一场全新的科技变革，每个人都感到这个世界变化太快，但是你的做点什么，让你有所改变。
+> 从通话时长（s）到流量大小（Byte),再到词元（Token），人类科技正在经历一场全新的科技变革，每个人都感到这个世界变化太快，但是你总得做点什么，才能让你有所改变。
 
 # How to Install Juypter lab
 
