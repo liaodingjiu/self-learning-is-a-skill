@@ -1,3 +1,6 @@
+## 自学是一种技能
+## Self-learning is a skill
+
 <!--
 ## Hi ，I'm  there 👋
 
