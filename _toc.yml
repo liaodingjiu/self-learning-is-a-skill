@@ -1,0 +1,5 @@
+
+format: jb-book
+root: intro  # 'intro' is usually the name of your main landing page file (without extension)
+chapters:
+- file: /Users/judy/self-learning-is-a-skill/_posts/my-notes  # Point this to your specific file
