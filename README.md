@@ -21,110 +21,111 @@ Here are some ideas to get you started:
 > 从通话时长（s）到流量大小（Byte),再到词元（Token），人类科技正在经历一场全新的科技变革，每个人都感到这个世界变化太快，但是你总得做点什么，才能让你有所改变。
 
 
-### 要事第一：如何做到每天写点什么，而不是爆款文章；每天完成一条口播视频，而不是爆款视频。
+- 🔭 每天写点什么，而不是爆款文章 ...
+- 🌱 每天拍点什么，而不是爆款视频...
+- 👯 每天冥想10 分钟，而不是让大脑占满 ...
+- 🤔 每天投资点什么，而不是追求短期收益...
+- 💬 每周运动一下， ...
 
 
+### 在AI时代，如何证明你会AI？`
+
+最好的办法就是立马行动用上AI，
+
+然后把你使用的过程记录下来。
+
+因为，这个记录过程，远远比学更加重要，
+
+学习是掌握 AI 个工具，而记录却是你成长的过程。
+
+如何记录，用什么记录工具原本并不重要，
+
+但是我强烈推荐你用的是 Git 来记录下来。
+
+其实你每天需要发布时，到终端里面跑一行代码就可以完成这个记录：
+
+``bash``
+`cd ~/self-learning-is-a-skill && git add -A && git commit -m "update" && git push`
 
 
-# How to Install Juypter lab
+Git 最好的是版本管理，其实这不只是版本管理，
+
+他将记录你的成长的历程，还能让全世界看到你。
+
+为什么要这么做？
+
+因为一个人的财富，等于他的能力乘以影响力。
+
+比如你在单位，你是一个普通员工，那么你的影响力很小，
+
+但是如果你成为了部门领导，甚至是公司领导，你影响的人就越多，
+
+相应的你的财富就会越大，但是这个有一定的天花板的。
+
+如果普通人，你能够掌握杠杆，比如编程，自媒体，出书等，
+
+你的影响力可以成千上万的人看到，这是很多人没有意识到的。
+
+就算意识到了，但是怎么做呢？
+
+自学吧，这世界上没有什么比自学更加重要了，
+
+尤其是现在 AI 时代，你可以学会任何的技能，包括赚钱的技能。
 
 
-使用 Homebrew（Mac 专属包管理器）安装 Jupyter 是最省心的方式，因为它会自动处理 Python 环境变量、依赖冲突等问题，比 pip 安装更稳定。下面是完整的 brew 安装 Jupyter 的步骤，包括前置准备、安装、验证和启动：
-## 一、前置准备：安装 Homebrew（如果未安装）
-如果你的 Mac 还没装 Homebrew，先执行以下命令安装（复制到终端直接运行）：
+### 热门的小龙虾
 
-bash
+龙虾 (OpenClaw) 是 2026 年初 AI 圈最热门的大事，感觉不知道龙虾都落后了。`
 
-运行brew的官方安装脚本，全程自动完成
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-plaintext
-```
+前几天看了张一鸣创业日志中他为什么创造头条，今日头条的本质是抢占了信息流 / 注意力这块市场，头条负责对信息流的重新匹配。
 
-安装完成后，执行brew -v验证，能输出版本号说明安装成功。
+4月13日中午我突发奇想，我能不能用龙虾（OpenClaw）做一个自己的数字产品。
 
+按照第一性原理，咱们不搞那么复杂的平台，于是就有了阿玖日报。`
 
-## 二、用 brew 安装 Jupyter（分 2 种方式，推荐方式 1）
+从4 月 13 日18 点下载Qclaw 开始，我只花了不到 3 个小时就完成了阿玖日报整个构想的落地。
 
-方式 1：先装 Python（brew 版），再装 Jupyter（推荐）
-brew 本身没有直接的jupyter公式，而是先装 brew 管理的 Python（自动配置环境变量），再用 pip3 安装 Jupyter，这是最稳定的组合：
-bash
-运行1. 安装brew版Python（会自动替换系统默认Python，配置PATH）brew install python2. 验证Python和pip3（brew安装后会自动链接）python3 -V  # 输出版本号，如Python 3.12.2
-pip3 -V     # 输出路径包含/usr/local/bin（brew路径）3. 用brew的pip3安装Jupyter Lab（推荐）或Notebook安装Jupyter Lab（功能更全，现代界面）pip3 install jupyterlab或安装经典版Jupyter Notebook（按需选择）pip3 install jupyter notebook方式 2：通过 brew 的jupyterlab公式安装（简化版）
+这就验证了 Openclaw将将 AI 推入了一个新的时代。
 
+日报简单可以随心所欲，随时记录我们学习成长的轨迹。
 
-brew 社区维护了jupyterlab公式，可一键安装（本质还是依赖 brew 的 Python）：
-bash
-运行直接安装jupyterlab（会自动安装依赖的Python）
+我们学习的知识和成长过程，与其放在大脑里，不如放进知识库里，与其放进知识库里，不如将其放在朋友圈，与其放在朋友圈，不如放在社交媒体上。
 
-brew install jupyterlab
+如果还有更牛的地方，就是将你学到的知识以及学知识的过程的记录放Git上。
 
-⚠️ 注意：这种方式安装的版本可能略滞后于 pip，但胜在一键完成，适合新手。
+我要告诉孩子们，不管你今后学什么专业，你最应该拥有的是一个Git账号。
 
-## 三、验证安装是否成功
-执行以下命令，能输出版本号说明安装成功：
-bash
-运行验证Jupyter Lab版本
-jupyter lab --version
+因为这里可以完成一个最朴素的智慧：
 
-或验证Jupyter Notebook版本（如果装了）
+输入（学）→ 处理（用）→ 记录（写）→ 反馈（改）
 
-jupyter notebook --version
+这里，你可以建立你的个人网站，可以放你的程序代码，还可以学习到很多你想学到的有意义、有价值的东西，这可以记录你过去的成长。
 
-验证命令是否可执行（核心）
+前提是你要会一点英语，至少会看懂英语。不过现在门槛已经变低，浏览器可以一键变成中文。
 
-jupyter --version
+顺便说一下，GitHub上有数百万个开源项目，你可以从中学AI、学写作、学习编程、学数据分析、学产品思维——不需要任何人批准，不需要报名，不需要交钱。
 
-如果输出类似7.0.7（Jupyter Lab 版本）的信息，说明环境变量和安装都没问题。
+或许未来有一天，你要去应聘，你可一个给他一个Git，看看你成长的轨迹。
 
+GitHub有句话：“你的代码不会说谎，你的commit历史记录了你的成长。”
 
-## 四、启动 Jupyter（brew 安装后直接用命令）
-bash
-运行启动Jupyter Lab（推荐）
-jupyter lab
+为什么有时候我们学了很多东西，但是感觉又拿不出手？
 
-或启动Jupyter Notebookjupyter notebook
+那是因为我们很多时候没有输出闭环，这是大部分人犯的错误。`
 
-或者通过brew进行启动
+学而时习之，不亦说乎。
 
-brew services start jupyterlab
+这句话孔子说了两千年，但大多数人还是学了就忘。
 
-brew services start jupyterlab
+所以一边用AI建一个数字产品，一边记录成长的过程。
 
-执行后会自动唤起 Mac 默认浏览器，进入 Jupyter 界面，无需手动复制链接（终端也会输出备用链接）。
+这就是阿玖日报的来由。
 
-## 五、常见问题解决
-brew install jupyterlab 提示 “找不到公式”
-先更新 brew 仓库：brew update，再重新安装。
-启动后提示 “端口被占用”
-指定端口启动：jupyter lab --port 8889。
-brew 安装的 Python 和系统 Python 冲突
-brew 安装的 Python 默认在/usr/local/bin，优先级高于系统 Python，无需额外配置；如果想确认，执行which python3，输出/usr/local/bin/python3即为正常。
+如果你想得到不同的结果，就不要重复做同样的事。
 
-## 六、卸载（如需）
-如果需要卸载 brew 安装的 Jupyter：
-bash
-运行卸载pip安装的Jupyterpip3 uninstall jupyterlab jupyter notebook -y如果是brew公式安装的，额外执行brew uninstall jupyterlab
-总结
-核心步骤：先装 brew → 用 brew 装 Python → 用 pip3 装 jupyterlab（最稳定）；
-简化方式：直接brew install jupyterlab，一键完成（版本略滞后）；
-优势：brew 自动配置环境变量，无需手动改 PATH，启动直接用jupyter lab命令。
-这种方式能彻底解决 Mac 上 “jupyter 命令找不到” 的问题，是新手最推荐的安装路径。
+—— 阿尔伯特·爱因斯坦（Albert Einstein）
 
-
-
-## 七、查看jupyter的版本
-
-jupyter lab --version
-
-
-————————
-
-# Markdown
-
-推荐你学习一门最简单的语言，那就是Markdown。
-为什么要学习？
-在人工智能时代，你必须掌握这门技能。
+简单的做一件事情，坚持做下去，你会发现有不一样的事情发生。
 
 难不难？
 不难！

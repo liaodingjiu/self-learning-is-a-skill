@@ -221,13 +221,7 @@ Jupyter Lab 4.x/ Notebook 7.x 默认 Windowing mode: full，在 macOS 上极易�
 
 
 
-
-
 ## Jupyter 的图片在哪里？可以上传至 Git吗？
-
-
-
-
 
 
 ## 如何让notebook可以实现预览
