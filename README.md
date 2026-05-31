@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ``bash``
 `cd ~/self-learning-is-a-skill && git add -A && git commit -m "update" && git push`
+`cd ~/Knowledge/ObsidianVault && git add -A && git commit -m "update" && git push`
 
 Git 最好的是版本管理，其实这不只是版本管理，
 
@@ -193,6 +194,9 @@ flowchart TD
 ```
 
 所以，真正学习的过程是迭代，而不是机械式去学习。做好一个事，并不是花一万小时死磕，而是做一万次迭代。
+
+
+
 
 
 ### 我的一些老师：
