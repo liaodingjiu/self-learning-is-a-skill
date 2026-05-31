@@ -2,8 +2,6 @@ Self-learning is a skill
 
 <!--
 ## Hi ，I'm  there 👋
-
-
 **廖定玖/阿玖说事** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 从通话时长（s）到流量大小（Byte),再到词元（Token），人类科技正在经历一场全新的科技变革，每个人都感到这个世界变化太快，但是你总得做点什么，才能让你有所改变。
+> 自学是我们最应该掌握的一种技能。
 
 
 - **🔭 每天写点什么，而不是爆款文章 ...**
@@ -26,7 +24,6 @@ Here are some ideas to get you started:
 - **👯 每天冥想10 分钟，而不是让大脑占满 ...**
 - **🤔 每天投资点什么，而不是追求短期收益...**
 - **💬 每周运动一下， 而不是花钱去健身...**
-
 
 ### 在AI时代，如何证明你会AI？`
 
@@ -196,3 +193,17 @@ flowchart TD
 ```
 
 所以，真正学习的过程是迭代，而不是机械式去学习。做好一个事，并不是花一万小时死磕，而是做一万次迭代。
+
+
+### 我的一些老师：
+1.纳瓦尔：
+他是硅谷的天使投资人，他博客地址： http://nav.al
+
+2.李笑来：
+李笑来是新东方的一个老师，然后出来自己创业，他认为未来写作是最赚钱的事情。他的视频号有很多短视频观点，值得学习，个人网站： www.lixiaolai.com
+
+3.李炳池：
+国内一个文案大师，一直从事销售文案的写作，他的个人网站:www.libingchi.com
+
+4.姜胡说：
+国内著名的知识博主，一个中专生，通过自学获取财富自由，抖音、视频号：姜胡说

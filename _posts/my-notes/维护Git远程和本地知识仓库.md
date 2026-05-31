@@ -6,3 +6,6 @@
 
 `cd ~/self-learning-is-a-skill && git add -A && git commit -m "update" && git push`
 `cd ~/Knowledge/ObsidianVault && git add -A && git commit -m "update" && git push`
+
+
+
