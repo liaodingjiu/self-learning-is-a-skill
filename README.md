@@ -200,6 +200,7 @@ flowchart TD
 
 
 ### 我的一些老师：
+
 1.纳瓦尔：
 他是硅谷的天使投资人，他博客地址： http://nav.al
 
@@ -211,3 +212,18 @@ flowchart TD
 
 4.姜胡说：
 国内著名的知识博主，一个中专生，通过自学获取财富自由，抖音、视频号：姜胡说
+
+5.Dan.Koe
+被大家称为的油管大神，丹.科伊。个人网站： https://thedankoe.com/
+
+6.萨希尔・拉文吉亚
+
+《小而美：持续盈利的经营法则》作者，个人网站： https://sahillavingia.com 
+
+7.Ray Dalio
+原则的作者，瑞达利欧，个人网址： http://www.raydalio.com
+
+
+8.蒂姆费里西
+
+巨人的工具的作者，个人网站： https://tim.blog/
