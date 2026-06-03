@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ``bash``
 `cd ~/self-learning-is-a-skill && git add -A && git commit -m "update" && git push`
+
 `cd ~/Knowledge/ObsidianVault && git add -A && git commit -m "update" && git push`
 
 Git 最好的是版本管理，其实这不只是版本管理，
