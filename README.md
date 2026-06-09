@@ -323,7 +323,7 @@ flowchart TD
 
 7.Ray Dalio
 
-《原则》的作者，瑞达利欧，个人网址： http://www.raydalio.com
+桥水基金创始人，《原则》的作者，瑞达利欧，个人网址： http://www.raydalio.com
 
 
 8.蒂姆费里西
