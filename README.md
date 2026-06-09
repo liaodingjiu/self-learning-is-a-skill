@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 如何记录，用什么记录工具原本并不重要，
 
-但是我强烈推荐你用的是 Git 来记录下来。
+但是我强烈推荐你用的是 Git 来记录下来,(https://www.github.com/liaodingjiu)
+
 
 其实你每天需要发布时，到终端里面跑一行代码就可以完成这个记录：
 
