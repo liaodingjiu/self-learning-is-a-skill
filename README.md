@@ -332,3 +332,9 @@ flowchart TD
 8.蒂姆费里西
 
 《巨人的工具》的作者，个人网站： https://tim.blog/
+
+
+9.**The Gary Halbert Letter**  
+ [https://www.thegaryhalbertletter.com](https://www.thegaryhalbertletter.com/)
+
+盖瑞·亥尔伯特（Gary Halbert）这是他自己创办的经典文案通讯网站，1986 年创刊，保留了大量他亲自撰写的销售信和文案干货。他 2007 年去世后，由两个儿子 Bond 和 Kevin 接管维护。
